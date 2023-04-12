@@ -506,6 +506,7 @@ return {
     ["sdl"] = "sdl",
     ["sed"] = "sed",
     ["sexp"] = "sexplib",
+    ["sh"] = "sh",
     ["si"] = "cuplsim",
     ["sieve"] = "sieve",
     ["sig"] = "lprolog",
